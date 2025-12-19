@@ -1,1 +1,1 @@
-This folder contains images related to testing results, UI, camera peformance results, and movement results. 
+This folder documents testing outcomes including motor control validation, camera performance, UI functionality, and movemnt along with flashlight.
