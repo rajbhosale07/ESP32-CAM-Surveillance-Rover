@@ -19,7 +19,7 @@ This project involves the design and development of a low-cost surveillance rove
 - PWM motor control
 - Embedded systems and firmware development
 
-#My Role
+# My Role
 -Assisted in embedded firmware development for ESP32-CAM
 -Worked on hardware integration and pin configuration
 -Helped design system flowcharts and architecture diagrams
