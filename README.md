@@ -20,11 +20,11 @@ This project involves the design and development of a low-cost surveillance rove
 - Embedded systems and firmware development
 
 # My Role
--Assisted in embedded firmware development for ESP32-CAM
--Worked on hardware integration and pin configuration
--Helped design system flowcharts and architecture diagrams
--Participated in testing, debugging, and result validation
--Contributed to documentation and result analysis
+- Assisted in embedded firmware development for ESP32-CAM
+- Worked on hardware integration and pin configuration
+- Helped design system flowcharts and architecture diagrams
+- Participated in testing, debugging, and result validation
+- Contributed to documentation and result analysis
 # Outcomes
 - Achieved stable real-time video streaming
 - Reliable remote navigation and obstacle awareness
