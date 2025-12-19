@@ -1,9 +1,9 @@
 # ESP32-CAM Surveillance Rover
 
-## Overview
+# Overview
 This project involves the design and development of a low-cost surveillance rover using the ESP32-CAM module. The rover streams real-time video over Wi-Fi and can be remotely controlled through a web-based interface. The system is designed for applications such as indoor surveillance, remote inspection, and robotics learning.
 
-## Key Features
+# Key Features
 - Real-time video streaming using ESP32-CAM
 - Wi-Fi based remote navigation and control
 - Integration of TF-Luna LiDAR sensor for obstacle detection
@@ -11,7 +11,7 @@ This project involves the design and development of a low-cost surveillance rove
 - Lightweight web interface for live control
 - Portable and low-power embedded system design
 
-## Technologies Used
+# Technologies Used
 - ESP32-CAM
 - C/C++ (Arduino IDE)
 - Wi-Fi communication
@@ -19,13 +19,13 @@ This project involves the design and development of a low-cost surveillance rove
 - PWM motor control
 - Embedded systems and firmware development
 
-## My Role
-- Developed embedded firmware for ESP32-CAM
-- Integrated camera module and LiDAR sensor
-- Implemented motor control and real-time command handling
-- Designed and tested the complete hardware–software system
-
-## Outcomes
+#My Role
+-Assisted in embedded firmware development for ESP32-CAM
+-Worked on hardware integration and pin configuration
+-Helped design system flowcharts and architecture diagrams
+-Participated in testing, debugging, and result validation
+-Contributed to documentation and result analysis
+# Outcomes
 - Achieved stable real-time video streaming
 - Reliable remote navigation and obstacle awareness
 - Improved understanding of embedded firmware, sensor interfacing, and IoT-based communication
