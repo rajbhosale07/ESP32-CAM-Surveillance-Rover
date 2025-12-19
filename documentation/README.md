@@ -1,1 +1,1 @@
-This folder contains system architecture, block diagrams, flowcharts, and design documentation for the ESP32-CAM Surveillance Rover project.
+This folder contains block diagram, system architectural design, TFluna distance calcultor flowchart, video stream algorithm flowchart and design documentation for the ESP32-CAM Surveillance Rover project.
