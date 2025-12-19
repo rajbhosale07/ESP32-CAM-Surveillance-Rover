@@ -28,6 +28,7 @@ This project involves the design and development of a low-cost surveillance rove
 # Outcomes
 - Achieved stable real-time video streaming
 - Reliable remote navigation and obstacle awareness
+- Functional web-based control interface
 - Improved understanding of embedded firmware, sensor interfacing, and IoT-based communication
 
 ## Applications
@@ -35,4 +36,5 @@ This project involves the design and development of a low-cost surveillance rove
 - Remote inspection
 - Disaster assessment
 - Educational robotics
+- Exploring unexplored areas difficult to human being
 
