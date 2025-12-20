@@ -3,7 +3,7 @@ This folder contains block diagram, system architectural design, TFluna distance
 # System Documentation
 
 ## Block Diagram
-![Block Diagram](Block-Diagram.jpeg)
+![Block Diagram](Block%20Diagram.jpeg)
 **Figure 1:** Overall system block diagram showing ESP32-CAM, motor driver, LiDAR sensor, and power modules.
 
 ## Pin Configuration Diagram
