@@ -31,7 +31,7 @@ This project involves the design and development of a low-cost surveillance rove
 - Functional web-based control interface
 - Improved understanding of embedded firmware, sensor interfacing, and IoT-based communication
 
-## Applications
+# Applications
 - Indoor surveillance
 - Remote inspection
 - Disaster assessment
