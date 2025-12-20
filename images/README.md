@@ -2,8 +2,8 @@ This folder contains images for all the connection work i.e. pin diagram, implem
 
 # Implementation Images 
 
-## Motor Control Testing
-![Motor Test](motor_test.png)
+## Implementation Diagram 1
+![Implementation Diagram 1](images/Implementation_Diagram_1.jpeg)
 **Figure 1:** Testing of forward, backward, left, and right motion using PWM-based motor control.
 
 ## Camera Streaming Output
