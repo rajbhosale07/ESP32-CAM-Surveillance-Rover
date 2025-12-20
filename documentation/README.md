@@ -7,7 +7,7 @@ This folder contains block diagram, system architectural design, TFluna distance
 **Figure 1:** Overall blockdiagram proposed for the system showing sensor calibration and data acquisition and how the data is processed leading to an obstacle detection and further movement execution based on it. 
 
 ## Systme Architectural Design
-![System Archiectural Design](ystem%20architectural%20design.jpeg)
+![System Archiectural Design](System%20architectural%20design.jpeg)
 **Figure 2:** Gives an overview of the project in the form of a tree diagram, mentioning the flow of the project and connection between the hardware and software components.
 
 ## TF Luna Distance Calculator
