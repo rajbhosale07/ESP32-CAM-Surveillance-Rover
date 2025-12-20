@@ -8,7 +8,7 @@ This folder documents testing outcomes including motor control validation, camer
 ## Motor Control Testing
 ![Motor Control Testing](Motor%20Testing.jpeg)
 **Figure 2:** Testing the Motor to see its functions working properly.
-## User Interface
+## Movement and Flashlight Testing
 ![Movement and Flashlight Testing](Movement%20and%20Camera%20Testing.jpeg)
 **Figure 3:** Rover navigation with onboard LED illumination in low-light conditions.
 
