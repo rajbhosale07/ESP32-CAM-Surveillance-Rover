@@ -13,6 +13,6 @@ This folder documents testing outcomes including motor control validation, camer
 **Figure 3:** Rover navigation with onboard LED illumination in low-light conditions.
 
 ## User Interface
-![User Interface](User%20Interface.jpeg)
+![User Interface](UI%20Interface.jpeg)
 **Figure 4:** Web-based control interface used for rover navigation and LED control.
 
