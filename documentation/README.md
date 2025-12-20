@@ -4,7 +4,7 @@ This folder contains block diagram, system architectural design, TFluna distance
 
 ## Block Diagram
 ![Block Diagram](Block%20Diagram.jpeg)
-**Figure 1:** Overall system block diagram showing ESP32-CAM, motor driver, LiDAR sensor, and power modules.
+**Figure 1:** Overall blockdiagram proposed for the system showing sensor calibration and data acquisition and how the data is processed leading to an obstacle detection and further movement execution based on it. 
 
 ## Pin Configuration Diagram
 ![Pin Diagram](pin_diagram.png)
