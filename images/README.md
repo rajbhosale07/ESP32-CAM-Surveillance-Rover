@@ -4,17 +4,14 @@ This folder contains images for all the connection work i.e. pin diagram, implem
 
 ## Implementation Diagram 1
 ![Implementation Diagram 1](Implementation%20Diagram%201.jpeg)
-**Figure 1:** Testing of forward, backward, left, and right motion using PWM-based motor control.
+**Figure 1:** Above image shows pin wise connection between L298N motor driver and esp32.
 
-## Camera Streaming Output
-![Camera Test](camera_test.png)
-**Figure 2:** Live video stream captured from the ESP32-CAM module over Wi-Fi.
+## Implementation Diragram 2
+![Implementation Diagram 2](camera_test.png)
+**Figure 2:** Above image shows pin wise connection between Arduino UNO and Esp 32.
 
-## User Interface
-![UI](ui_interface.png)
-**Figure 3:** Web-based control interface used for rover navigation and LED control.
+## Software Implementation
+![Software Implementation](ui_interface.png)
+**Figure 3:** Above image shows a screenshot of the Arduino IDE where the code is being tested.
 
-## Low-Light Performance
-![Flashlight](flashlight_test.png)
-**Figure 4:** Rover navigation with onboard LED illumination in low-light conditions.
 
