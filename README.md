@@ -38,6 +38,7 @@ This project involves the design and development of a low-cost surveillance rove
 - Educational robotics
 - Exploring unexplored areas difficult to human being
 
-## Documentation Images
-- 
+  NOTE- Detailed diagrams and images are uploaded in their respective files 
+
+
 
