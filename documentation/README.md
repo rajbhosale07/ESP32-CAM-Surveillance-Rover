@@ -6,8 +6,8 @@ This folder contains block diagram, system architectural design, TFluna distance
 ![Block Diagram](Block%20Diagram.jpeg)
 **Figure 1:** Overall blockdiagram proposed for the system showing sensor calibration and data acquisition and how the data is processed leading to an obstacle detection and further movement execution based on it. 
 
-## Pin Configuration Diagram
-![Pin Diagram](pin_diagram.png)
+## Systme Architectural Design
+![System Archiectural Design]()
 **Figure 2:** GPIO pin mapping between ESP32-CAM, L298N motor driver, and TF-Luna LiDAR sensor.
 
 ## Architecture Flowchart
