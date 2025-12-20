@@ -11,6 +11,8 @@ This folder contains block diagram, system architectural design, TFluna distance
 **Figure 2:** Gives an overview of the project in the form of a tree diagram, mentioning the flow of the project and connection between the hardware and software components.
 
 ## TF Luna Distance Calculator
-![TF Luna Distance Calculator](architecture_flowchart.png)
-**Figure 3:** Control flow describing video streaming, command handling, and motor actuation logic.
+![TF Luna Distance Calculator](TF%20Luna%20distance%20calculator%20flowchart.jpeg)
+**Figure 3:** Above image explains the working of TF LUNA in the form of a flowchart .
+
+## 
 
